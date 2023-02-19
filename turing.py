@@ -1,25 +1,25 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Andrew Stuart Tanenbaum é o chefe do Departamento de sistemas de computação, na Universidade Vrije, Amsterdã nos Países Baixos. Ele é o autor do MINIX, um sistema operacional baseado no Unix com propósito educacional, e é conhecido por seus livros sobre ciência da computação."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Doutorado na Universidade da Califórnia."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "Ele é o autor do MINIX, um sistema operacional baseado no Unix com propósito educacional, e é conhecido por seus livros sobre ciência da computação."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Orca: A language for parallel programming of distributed systems, Programming languages for distributed computing systems, Enhanced Operating System Security Through Efficient and Fine-grained Address Space Randomization."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Operating systems: design and implementation, Can we make operating systems reliable and secure?, Classifying RFID attacks and defenses"
     return mensagem
 
 
