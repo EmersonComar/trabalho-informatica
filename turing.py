@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Orca: A language for parallel programming of distributed systems, Programming languages for distributed computing systems, Enhanced Operating System Security Through Efficient and Fine-grained Address Space Randomization."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Operating systems: design and implementation, Can we make operating systems reliable and secure?, Classifying RFID attacks and defenses"
     return mensagem
 
 
